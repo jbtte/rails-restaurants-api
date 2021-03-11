@@ -24,6 +24,9 @@ gem 'redis', '~> 4.0'
 
 gem 'pundit', '~> 2.1.0'
 
+# Used for authentication API
+gem 'simple_token_authentication'
+
 # Random information gem for seed
 gem 'faker', '~> 1.6', '>= 1.6.6'
 # Use Active Storage variant
